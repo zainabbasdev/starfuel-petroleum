@@ -10,7 +10,6 @@ This repository hosts the backend code for the StarFeul Petroleum management sys
 - [Models](#models)
 - [Controllers](#controllers)
 - [Routes](#routes)
-- [License](#license)
 
 ## Installation
 
